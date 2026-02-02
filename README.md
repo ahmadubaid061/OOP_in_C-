@@ -1,8 +1,6 @@
 # OOP (Object-Oriented Programming) Lab Tasks Repository
 
 ![C++](https://img.shields.io/badge/C++-100%25-blue?logo=c%2B%2B)
-![GitHub](https://img.shields.io/github/last-commit/ahmadubaid061/oop-final-lab-tasks)
-![GitHub](https://img.shields.io/github/repo-size/ahmadubaid061/oop-final-lab-tasks)
 
 This repository contains all my Object-Oriented Programming (OOP) lab tasks and assignments implemented in C++. The repository follows a structured approach to learning OOP concepts through practical implementation.
 
